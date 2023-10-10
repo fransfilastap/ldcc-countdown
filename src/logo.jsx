@@ -3,7 +3,7 @@ export default function LogoLDCC() {
     <svg
       xmlns="http://www.w3.org/2000/svg"
       preserveAspectRatio="xMinYMin meet"
-      className={"h-[10vh]"}
+      className={"h-[4vh] lg:h-[10vh]"}
       viewBox="0 0 71 33"
       fill="none"
     >
